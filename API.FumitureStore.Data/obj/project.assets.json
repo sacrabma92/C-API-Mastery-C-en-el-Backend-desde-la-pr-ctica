@@ -593,6 +593,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "API.FumitureStore.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/API.FumitureStore.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.FumitureStore.Shared.dll": {}
+        }
       }
     }
   },
@@ -1294,10 +1304,16 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "API.FumitureStore.Shared/1.0.0": {
+      "type": "project",
+      "path": "../API.FumitureStore.Shared/API.FumitureStore.Shared.csproj",
+      "msbuildProject": "../API.FumitureStore.Shared/API.FumitureStore.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "API.FumitureStore.Shared >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.16",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.16",
       "Microsoft.EntityFrameworkCore.Sqlite >= 6.0.16",
@@ -1335,7 +1351,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\PROYECTOS\\C#\\API.FumitureStore\\API.FumitureStore.Shared\\API.FumitureStore.Shared.csproj": {
+              "projectPath": "D:\\PROYECTOS\\C#\\API.FumitureStore\\API.FumitureStore.Shared\\API.FumitureStore.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

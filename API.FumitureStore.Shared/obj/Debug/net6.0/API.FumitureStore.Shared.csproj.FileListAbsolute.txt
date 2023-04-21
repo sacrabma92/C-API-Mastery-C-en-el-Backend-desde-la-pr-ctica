@@ -1,0 +1,12 @@
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Shared\bin\Debug\net6.0\API.FumitureStore.Shared.deps.json
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Shared\bin\Debug\net6.0\API.FumitureStore.Shared.dll
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Shared\bin\Debug\net6.0\API.FumitureStore.Shared.pdb
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Shared\obj\Debug\net6.0\API.FumitureStore.Shared.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Shared\obj\Debug\net6.0\API.FumitureStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Shared\obj\Debug\net6.0\API.FumitureStore.Shared.AssemblyInfoInputs.cache
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Shared\obj\Debug\net6.0\API.FumitureStore.Shared.AssemblyInfo.cs
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Shared\obj\Debug\net6.0\API.FumitureStore.Shared.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Shared\obj\Debug\net6.0\API.FumitureStore.Shared.dll
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Shared\obj\Debug\net6.0\refint\API.FumitureStore.Shared.dll
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Shared\obj\Debug\net6.0\API.FumitureStore.Shared.pdb
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Shared\obj\Debug\net6.0\ref\API.FumitureStore.Shared.dll

@@ -1,0 +1,17 @@
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\bin\Debug\net6.0\API.FumitureStore.Data.deps.json
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\bin\Debug\net6.0\API.FumitureStore.Data.runtimeconfig.json
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\bin\Debug\net6.0\API.FumitureStore.Data.dll
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\bin\Debug\net6.0\API.FumitureStore.Data.pdb
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\bin\Debug\net6.0\API.FumitureStore.Shared.dll
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\bin\Debug\net6.0\API.FumitureStore.Shared.pdb
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\obj\Debug\net6.0\API.FumitureStore.Data.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\obj\Debug\net6.0\API.FumitureStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\obj\Debug\net6.0\API.FumitureStore.Data.AssemblyInfoInputs.cache
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\obj\Debug\net6.0\API.FumitureStore.Data.AssemblyInfo.cs
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\obj\Debug\net6.0\API.FumitureStore.Data.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\obj\Debug\net6.0\API.FumitureStore.Data.csproj.CopyComplete
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\obj\Debug\net6.0\API.FumitureStore.Data.dll
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\obj\Debug\net6.0\refint\API.FumitureStore.Data.dll
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\obj\Debug\net6.0\API.FumitureStore.Data.pdb
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\obj\Debug\net6.0\API.FumitureStore.Data.genruntimeconfig.cache
+D:\PROYECTOS\C#\API.FumitureStore\API.FumitureStore.Data\obj\Debug\net6.0\ref\API.FumitureStore.Data.dll
