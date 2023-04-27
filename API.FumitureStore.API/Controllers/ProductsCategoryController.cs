@@ -8,11 +8,11 @@ namespace API.FumitureStore.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ProductCategoryController : ControllerBase
+    public class ProductsCategoryController : ControllerBase
     {
         private readonly APIFurnitureStoreContext _context;
 
-        public ProductCategoryController(APIFurnitureStoreContext context)
+        public ProductsCategoryController(APIFurnitureStoreContext context)
         {
             _context = context;
         }
@@ -37,12 +37,12 @@ namespace API.FumitureStore.API.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> PostProductCategory(ProductCategory productCategory)
+        public async Task<IActionResult> PostProductCategory(ProductCategory category)
         {
-            await _context.ProductCategories.AddAsync(productCategory);
+            await _context.ProductCategories.AddAsync(category);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("Post", productCategory.Id, productCategory);
+            return CreatedAtAction("PostProductCategory", category.Id, category);
         }
 
         [HttpPut]
@@ -58,7 +58,7 @@ namespace API.FumitureStore.API.Controllers
         [HttpDelete]
         public async Task<IActionResult> DeleteClient(ProductCategory productCategory)
         {
-            if(productCategory== null) return NotFound();
+            if(productCategory == null) return NotFound();
 
             _context.ProductCategories.Remove(productCategory);
 

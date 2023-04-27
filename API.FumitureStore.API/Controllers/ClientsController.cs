@@ -41,7 +41,7 @@ namespace API.FumitureStore.API.Controllers
         {
             await _context.Clients.AddAsync(client);
             await _context.SaveChangesAsync();
-            return CreatedAtAction("Post", client.Id, client);
+            return CreatedAtAction("PostCliente", client.Id, client);
         }
 
         [HttpPut]
