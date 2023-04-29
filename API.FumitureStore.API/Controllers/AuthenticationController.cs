@@ -13,7 +13,7 @@ using System.Text;
 namespace API.FumitureStore.API.Controllers
 {
     [Route("api/[controller]")]
-[ApiController]
+    [ApiController]
 public class AuthenticationController : ControllerBase
 {
     private readonly UserManager<IdentityUser> _userManager;
