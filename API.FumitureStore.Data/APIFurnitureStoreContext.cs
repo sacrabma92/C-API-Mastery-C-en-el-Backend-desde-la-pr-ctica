@@ -1,9 +1,10 @@
 ﻿using API.FumitureStore.Shared;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace API.FumitureStore.Data
 {
-    public class APIFurnitureStoreContext : DbContext
+    public class APIFurnitureStoreContext : IdentityDbContext
     {
         public APIFurnitureStoreContext(DbContextOptions options) : base(options)
         {
